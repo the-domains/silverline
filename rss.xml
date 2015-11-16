@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Silverline]]></title>
+        <description><![CDATA[Silverline]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 19:58:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silverline Named to Deloitte's 2015 Technology Fast 500™]]></title>
+            <description><![CDATA[<article><h1>Silverline Named to Deloitte's 2015 Technology Fast 500™</h1><p>New York, NY - November 13, 2015 - Silverline today announced it ranked 304 on Deloitte's Technology Fast 500™, a ranking of the 500 fastest growing technology, media, telecommunications, life sciences and energy tech companies in North America. Silverline grew 220 percent during this period.</p></article>]]></description>
+            <link>http://silverlinecrm.com/silverline-ranked-number-304-fastest-growing-company-in-north-america-on-deloittes-2015-technology-fast-500/</link>
+            <guid isPermaLink="false">ddfe299b-e485-4869-8d46-94bdd99b0840</guid>
+            <pubDate>Mon, 16 Nov 2015 19:58:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
